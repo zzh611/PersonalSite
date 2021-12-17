@@ -1,0 +1,36 @@
+/**************************TAG SELECTION**************************/
+body {
+    background-color: #D8E3E7;
+    color:#132133;
+}
+h1 {
+    color: #126E82;
+}
+h3{
+    color:#51C4D3;
+}
+hr {
+    background-color: #D8E3E7;
+    border-style: None;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 10%;        
+}
+img {
+    height: 200px;
+    border-radius: 100%;
+}
+/**************************CLASS SELECTION**************************/
+.bacon{
+    background-color: red;
+}
+.broccoli{
+    background-color: #126E82;
+}
+
+/**************************ID SELECTION**************************/
+
+#heading {
+    color: #126E82;
+}
